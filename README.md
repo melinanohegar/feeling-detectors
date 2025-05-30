@@ -1,5 +1,4 @@
 # feeling-detectors
-تحلیل احساسات از روی متن
 # Persian-English Sentiment Analyzer
 
 This is a simple sentiment analysis tool that supports both **Persian (Farsi) and English text input. It is built using Python with a graphical user interface (GUI) implemented via Tkinter.
